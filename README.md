@@ -1,1 +1,2 @@
 # security-and-confidentiality-for-the-exchange-of-medical-data-using-cloudlets
+This project proposes a healthcare system using cloudlet technology to securely collect, store, and share medical data from wearable devices. It uses encryption and a trust model to protect user data and enable secure sharing. The system also includes an intrusion detection system to prevent malicious attacks, ensuring a safe and efficient healthcare system.
